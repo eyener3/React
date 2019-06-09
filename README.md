@@ -1,2 +1,2 @@
-# React
+# my-app
 React tutorial
